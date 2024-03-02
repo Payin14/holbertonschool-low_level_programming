@@ -21,7 +21,4 @@ void more_numbers(void)
 		}
 		_putchar('\n');
 	}
-:x
-
-
-:x
+}
